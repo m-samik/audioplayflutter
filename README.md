@@ -1,6 +1,7 @@
 # mytube
 
 A new Flutter project.
+<img src = "https://github.com/iammsami/audioplayflutter/raw/master/Screenshot_1596518441.png">
 
 ## Getting Started
 
